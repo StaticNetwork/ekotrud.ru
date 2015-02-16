@@ -1,0 +1,6 @@
+User-agent: Yandex
+Host: ekotrud.ru
+Disallow: /css /img /js
+
+User-agent: *
+Disallow: /css /img /js
